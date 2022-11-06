@@ -22,7 +22,6 @@ body {
 
 .menu-bar {
     margin: 0 100px 0 100px;
-    border: 1px solid red;
     flex: 1 1 auto;
     display:flex;
     justify-content: space-between;
@@ -30,14 +29,12 @@ body {
 }
 
 .logo {
-    border: 1px solid green;
     display:flex;
     justify-content: flex-start;
     font-size:24px;
 }
     
 .links {
-    border: 1px solid yellow;
     display: flex;
     align-items:center;
     font-size:18px;
